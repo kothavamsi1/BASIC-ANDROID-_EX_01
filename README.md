@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Surendhar.K
-### REGISTER NO: 212222040166
+### DEVELOPED BY : Rizwan T
+### REGISTER NO: 212222040134
 
 ### MainActivity.java:
 ```
